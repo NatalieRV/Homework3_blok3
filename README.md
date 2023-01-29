@@ -6,14 +6,14 @@
 
 Пятизначное число разделили на цифры и сравнили их между собой.
 
-[Код](Ex1_Polydrome\Program.cs)
+[Код](Ex1_Polydrome/Program.cs)
 
 
 ## Задача 2.
 
 Ввести координаты двух точек и найти расстояние между ними в 3D пространстве.
 
-[Код](Ex2_dlinaAB_3D\Program.cs)
+[Код](Ex2_dlinaAB_3D/Program.cs)
 
 
 
@@ -21,4 +21,4 @@
 
 Ввести число N и вывести таблицу кубов от 1 до N.
 
-[Блок-схема](Ex3_Cube_N/dz3_3.drawio.png) | [Код](Ex3_Cube_N\Program.cs)
+[Блок-схема](Ex3_Cube_N/dz3_3.drawio.png) | [Код](Ex3_Cube_N/Program.cs)
